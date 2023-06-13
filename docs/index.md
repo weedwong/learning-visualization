@@ -2,10 +2,10 @@
 title: 学习可视化的案例和笔记
 hero:
   title: 学习可视化
-  description: 学习可视化的案例和笔记
+  description: 记录学习可视化的案例和笔记
   actions:
-    - text: Hello
-      link: /
+    - text: Demo
+      link: /demo
     - text: GitHub
       link: https://github.com/weedwong/learning-visualization
 # features:
@@ -19,5 +19,3 @@ hero:
 #     emoji: 🚀
 #     description: Put ! description here
 ---
-
-learning-visualization

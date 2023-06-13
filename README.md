@@ -1,6 +1,6 @@
 # learning-visualization
 
-A static site base on [dumi](https://d.umijs.org).
+学习可视化的案例和笔记 [跟月影学可视化](https://time.geekbang.org/column/intro/100053801?tab=catalog).
 
 ## Development
 

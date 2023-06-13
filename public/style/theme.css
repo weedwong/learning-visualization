@@ -1,0 +1,9 @@
+.dumi-default-hero-actions > a {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.dumi-default-hero-actions > a:hover {
+  cursor: pointer;
+}

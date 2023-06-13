@@ -1,7 +1,7 @@
 ---
 nav:
-  title: Three.js
-  order: 2
+  title: 作品集
+  order: 3
 ---
 
 This is a guide example.
